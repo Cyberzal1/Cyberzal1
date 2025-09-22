@@ -44,6 +44,15 @@ Currently serving as Cybersecurity Intern @ RAiD (RSAF Agile innovation Digital)
 
 ---
 
+## 📜 Hero’s Progress Log
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cyberzal1&show_icons=true&locale=en" alt="cyberzal1" />
+</p>
+
+---
+
+
 ## 🌟 Let’s Connect  
 - 💼 [LinkedIn](https://www.linkedin.com/in/cyberzal)  
 
