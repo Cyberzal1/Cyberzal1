@@ -1,5 +1,4 @@
-![Cyber Shield](images/cybershield.gif)
-![Cyber Shield](images/cybershield.gif)
+# ![cybershield_pulse](https://github.com/user-attachments/assets/0076fd88-6443-4971-b5f0-65af7ba649bb)
 
 
 # 🛡️ Rise of the CyberShield Hero
