@@ -1,28 +1,53 @@
-<h1 align="center">Sopfian aka Cyberzal</h1>
-<h3 align="center">Cybersecurity Intern from Singapore</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberzal1&label=Profile%20views&color=0e75b6&style=flat" alt="cyberzal1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyberzal1" alt="cyberzal1" /></a> </p>
-
-- 🔭 I’m currently working on **Cybersecurity, Cloud Security, and DevSecOps**
-
-- 🌱 I’m currently learning **Hack the Box, Hackviser, and Cyberwarfare Labs**
-
-- 👯 I’m looking to collaborate on **Cloud security projects, penetration testing labs, open-source DevSecOps tools, and cybersecurity awareness initiatives.**
-
-- 🤝 I’m looking for help with **Building hands-on projects in pentesting, cloud security, and gaining mentorship in advanced cybersecurity practices.**
+![Cyber Shield](images/cybershield.gif)
+![Cyber Shield](images/cybershield.gif)
 
 
-- 👨‍💻 All of my projects are available at **NextWork**
+# 🛡️ Rise of the CyberShield Hero
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/cyberzal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cyberzal/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/wirazalgaming/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/wirazalgaming/" height="30" width="40" /></a>
-</p>
+> *"In a world where threats lurk in the shadows of the digital realm, I rise with my shield — not of iron, but of code."*  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+Welcome to my GitHub Isekai!  
+I’m **CyberZal**, a passionate **Cloud & Cybersecurity Explorer**, walking the path of the **CyberShield Hero** — inspired by the resilience of anime heroes and the mission to safeguard the digital world.  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyberzal1&show_icons=true&locale=en" alt="cyberzal1" /></p>
+Currently serving as Cybersecurity Intern @ RAiD (RSAF Agile innovation Digital)!
+
+---
+
+## ⚔️ About Me  
+- 🌐 Mid-career adventurer shifting into **Cyber Defense & Pentesting**.  
+- 📚 Currently pursuing **MBA in Cybersecurity** + **Specialist Diploma in Cybersecurity Management**.  
+- 💻 Background: IT engineering, cloud foundations, and a touch of DevOps magic.  
+- 🎵 Ex-underground singer songwriter, now coding verses in **Python, Linux, and Cybersecurity frameworks**.  
+- 🐾 Loves **anime, manga, and cats** (guardian companions on this quest).  
+
+---
+
+## 🛡️ My Hero’s Arsenal (Skills)  
+- **Cybersecurity:** Security frameworks, threat modeling, cloud security principles.  
+- **Cloud & DevOps:** AWS, Azure, Flask, Git, CI/CD basics.  
+- **Languages:** Python, Bash scripting, HTML/CSS.  
+- **Other Tools:** GitHub, GitLab, Docker (learning).  
+
+---
+
+## 📖 Current Quest Log  
+- 🏰 Building projects that blend **cybersecurity with creativity**.  
+- 🔐 Strengthening skills towards **Hack the box, Hackviser, and CyberWarFare Labs**.  
+- 🌱 Writing my **light novel + anime-fantasy short stories** (*Threads of Harmony*). <a href="https://www.royalroad.com/fiction/109034/threads-of-harmony-puppygirlprincesss-quest"> Click here to read and support</a>  
+- 🚀 Experimenting with **Flask apps, portfolio sites, and automation scripts**.  
+
+---
+
+## 🎮 Side Quests  
+- 🏋️ Getting back into **calisthenics training** (hero needs stamina).  
+- 🎶 Writing songs/poetry infused with **R&B soul and storytelling**.  
+- ✨ Exploring **anime-inspired designs** for cybersecurity branding.  
+
+---
+
+## 🌟 Let’s Connect  
+- 💼 [LinkedIn](https://www.linkedin.com/in/cyberzal)  
+
+---
+
+> *“Even if the odds are against me, as long as I hold the CyberShield, I’ll stand guard over the digital frontier.”*  
