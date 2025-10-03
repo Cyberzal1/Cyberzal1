@@ -24,7 +24,7 @@ Currently serving as Cybersecurity Intern @ RAiD (RSAF Agile innovation Digital)
 ## 🛡️ My Hero’s Arsenal (Skills)  
 - **Cybersecurity:** Security frameworks, threat modeling, cloud security principles.  
 - **Cloud & DevOps:** AWS, Azure, Flask, Git, CI/CD basics.  
-- **Languages:** Python, Bash scripting  
+- **Languages:** Python, Bash scripting. 
 - **Other Tools:** GitHub, GitLab, Docker (learning).  
 
 ---
