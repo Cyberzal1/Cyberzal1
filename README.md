@@ -8,7 +8,7 @@
 Welcome to my GitHub Isekai!  
 I’m **CyberZal**, a passionate **Cloud & Cybersecurity Explorer**, walking the path of the **CyberShield Hero** — inspired by the resilience of anime heroes and the mission to safeguard the digital world.  
 
-Currently serving as Cybersecurity Intern @ RAiD (RSAF Agile innovation Digital)!
+Previously served as Cybersecurity Intern @ RAiD (RSAF Agile innovation Digital)!
 
 ---
 
