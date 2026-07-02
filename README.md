@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/cyberzal-avatar.png" width="180" alt="Cyberzal — chibi cyber guardian wielding the glowing CyberShield"/>
+<img src="cyberzal-avatar.png" width="180" alt="Cyberzal — chibi cyber guardian wielding the glowing CyberShield"/>
 
-<img src="assets/hero-banner.svg" width="840" alt="CYBERZAL — Cyber Security Ops · AI Security Engineer — Guardian of the Digital Frontier"/>
+<img src="hero-banner.svg" width="840" alt="CYBERZAL — Cyber Security Ops · AI Security Engineer — Guardian of the Digital Frontier"/>
 
 </div>
 
@@ -28,7 +28,7 @@ Previously served as Cybersecurity Intern @ **RAiD** (RSAF Agile innovation Digi
 
 ## 🛡️ Hero's Arsenal
 
-<img src="assets/hero-arsenal.svg" width="840" alt="Hero's Arsenal — AI Stack: ChatGPT, Claude, Gemini, Skywork AI, Venice AI, Sakana AI · Class Specializations: Security Vibe Coder, AI Security Engineer, AI Web & App Builder · Core Loadout: Python, Bash, Linux, AWS, Azure, Docker, Flask, Git"/>
+<img src="hero-arsenal.svg" width="840" alt="Hero's Arsenal — AI Stack: ChatGPT, Claude, Gemini, Skywork AI, Venice AI, Sakana AI · Class Specializations: Security Vibe Coder, AI Security Engineer, AI Web & App Builder · Core Loadout: Python, Bash, Linux, AWS, Azure, Docker, Flask, Git"/>
 
 <details>
 <summary>📜 Plain-text loadout (for the recruiters' scrying orbs)</summary>
@@ -69,7 +69,7 @@ Previously served as Cybersecurity Intern @ **RAiD** (RSAF Agile innovation Digi
 ## 🌟 Let's Connect
 
 <a href="https://www.linkedin.com/in/cyberzal/"><img src="https://img.shields.io/badge/LinkedIn-connect-0d1117?style=for-the-badge&labelColor=bb2acf" alt="LinkedIn — cyberzal"/></a>
-<a href="https://cyberzal-digitalcard.netlify.app/"><img src="https://img.shields.io/badge/⚡_Digital_Card-tap_to_open-0d1117?style=for-the-badge&labelColor=22d3ee" alt="Cyberzal's interactive digital business card"/></a>
+<a href="https://cyberzal-digitalcard.netlify.app/"><img src="https://img.shields.io/badge/%E2%9A%A1_Digital_Card-tap_to_open-0d1117?style=for-the-badge&labelColor=22d3ee" alt="Cyberzal's interactive digital business card"/></a>
 
 ---
 
