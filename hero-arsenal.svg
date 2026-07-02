@@ -1,0 +1,142 @@
+<svg width="840" height="352" viewBox="0 0 840 352"
+     xmlns="http://www.w3.org/2000/svg" role="img"
+     aria-label="Hero's Arsenal: AI stack, class specializations, core loadout">
+  <defs/>
+  <style>
+    .in1, .in2, .in3 { animation: rise .7s cubic-bezier(.2,.8,.2,1) both; }
+    .in2 { animation-delay: .25s; } .in3 { animation-delay: .5s; }
+    .cursor { animation: blink 1.1s steps(1) infinite; }
+    .dot { animation: pulse 2s ease-in-out infinite; }
+    .scan { animation: sweep 9s linear infinite; }
+    @keyframes rise  { from { opacity:0; transform: translateY(8px); } }
+    @keyframes blink { 0%,55% { opacity:1 } 56%,100% { opacity:0 } }
+    @keyframes pulse { 0%,100% { opacity:1 } 50% { opacity:.25 } }
+    @keyframes sweep { from { transform: translateY(-10px) } to { transform: translateY(240px) } }
+    @media (prefers-reduced-motion: reduce) {
+      .in1,.in2,.in3 { animation: none; }
+      .cursor,.dot,.scan { animation: none; }
+    }
+  </style>
+  <rect width="840" height="352" rx="12" fill="#0d1117" stroke="#1e2836"/>
+
+  <text x="32" y="40" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace" font-size="12" letter-spacing="3"
+        fill="#7d8590"><tspan fill="#bb2acf">//</tspan> HERO'S ARSENAL</text>
+  <text x="808" y="40" text-anchor="end" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace" font-size="10"
+        letter-spacing="2" fill="#7d8590">LOADOUT &#183; 2026.07</text>
+  <line x1="32" y1="58" x2="808" y2="58" stroke="#1e2836"/>
+
+  <g class="in1">
+  <text x="32" y="86" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace" font-size="10" letter-spacing="3"
+        fill="#7d8590"><tspan fill="#bb2acf">&#9670;</tspan> AI STACK</text>
+  <g transform="translate(32,96)">
+    <rect width="77" height="30" rx="15" fill="#131a24" stroke="#1e2836"/>
+    <circle cx="15" cy="15" r="2.5" fill="#bb2acf"/>
+    <text x="46.0" y="19" text-anchor="middle" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace"
+          font-size="11" fill="#e6edf3">ChatGPT</text>
+  </g>
+  <g transform="translate(119,96)">
+    <rect width="70" height="30" rx="15" fill="#131a24" stroke="#1e2836"/>
+    <circle cx="15" cy="15" r="2.5" fill="#bb2acf"/>
+    <text x="42.5" y="19" text-anchor="middle" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace"
+          font-size="11" fill="#e6edf3">Claude</text>
+  </g>
+  <g transform="translate(199,96)">
+    <rect width="70" height="30" rx="15" fill="#131a24" stroke="#1e2836"/>
+    <circle cx="15" cy="15" r="2.5" fill="#bb2acf"/>
+    <text x="42.5" y="19" text-anchor="middle" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace"
+          font-size="11" fill="#e6edf3">Gemini</text>
+  </g>
+  <g transform="translate(279,96)">
+    <rect width="97" height="30" rx="15" fill="#131a24" stroke="#1e2836"/>
+    <circle cx="15" cy="15" r="2.5" fill="#bb2acf"/>
+    <text x="56.0" y="19" text-anchor="middle" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace"
+          font-size="11" fill="#e6edf3">Skywork AI</text>
+  </g>
+  <g transform="translate(386,96)">
+    <rect width="90" height="30" rx="15" fill="#131a24" stroke="#1e2836"/>
+    <circle cx="15" cy="15" r="2.5" fill="#bb2acf"/>
+    <text x="52.5" y="19" text-anchor="middle" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace"
+          font-size="11" fill="#e6edf3">Venice AI</text>
+  </g>
+  <g transform="translate(486,96)">
+    <rect width="90" height="30" rx="15" fill="#131a24" stroke="#1e2836"/>
+    <circle cx="15" cy="15" r="2.5" fill="#bb2acf"/>
+    <text x="52.5" y="19" text-anchor="middle" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace"
+          font-size="11" fill="#e6edf3">Sakana AI</text>
+  </g></g>
+  <g class="in2">
+  <text x="32" y="160" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace" font-size="10" letter-spacing="3"
+        fill="#7d8590"><tspan fill="#bb2acf">&#9670;</tspan> CLASS SPECIALIZATIONS</text>
+  <g transform="translate(32,170)">
+    <rect width="252" height="72" rx="8" fill="#131a24" stroke="#1e2836"/>
+    <rect x="0" y="0" width="3" height="72" rx="1.5" fill="#bb2acf"/>
+    <text x="18" y="30" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace" font-size="12" font-weight="700"
+          letter-spacing="1" fill="#22d3ee">SECURITY VIBE CODER</text>
+    <text x="18" y="52" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace" font-size="9" fill="#7d8590">ships secure code, AI at the keyboard</text>
+  </g>
+  <g transform="translate(294,170)">
+    <rect width="252" height="72" rx="8" fill="#131a24" stroke="#1e2836"/>
+    <rect x="0" y="0" width="3" height="72" rx="1.5" fill="#bb2acf"/>
+    <text x="18" y="30" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace" font-size="12" font-weight="700"
+          letter-spacing="1" fill="#22d3ee">AI SECURITY ENGINEER</text>
+    <text x="18" y="52" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace" font-size="9" fill="#7d8590">red-teams, hardens &amp; defends AI</text>
+  </g>
+  <g transform="translate(556,170)">
+    <rect width="252" height="72" rx="8" fill="#131a24" stroke="#1e2836"/>
+    <rect x="0" y="0" width="3" height="72" rx="1.5" fill="#bb2acf"/>
+    <text x="18" y="30" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace" font-size="12" font-weight="700"
+          letter-spacing="1" fill="#22d3ee">AI WEB &amp; APP BUILDER</text>
+    <text x="18" y="52" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace" font-size="9" fill="#7d8590">prompt &#8594; production, full stack</text>
+  </g></g>
+  <g class="in3">
+  <text x="32" y="280" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace" font-size="10" letter-spacing="3"
+        fill="#7d8590"><tspan fill="#bb2acf">&#9670;</tspan> CORE LOADOUT</text>
+  <g transform="translate(32,290)">
+    <rect width="70" height="30" rx="15" fill="#131a24" stroke="#1e2836"/>
+    <circle cx="15" cy="15" r="2.5" fill="#22d3ee"/>
+    <text x="42.5" y="19" text-anchor="middle" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace"
+          font-size="11" fill="#e6edf3">Python</text>
+  </g>
+  <g transform="translate(112,290)">
+    <rect width="57" height="30" rx="15" fill="#131a24" stroke="#1e2836"/>
+    <circle cx="15" cy="15" r="2.5" fill="#22d3ee"/>
+    <text x="36.0" y="19" text-anchor="middle" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace"
+          font-size="11" fill="#e6edf3">Bash</text>
+  </g>
+  <g transform="translate(179,290)">
+    <rect width="64" height="30" rx="15" fill="#131a24" stroke="#1e2836"/>
+    <circle cx="15" cy="15" r="2.5" fill="#22d3ee"/>
+    <text x="39.5" y="19" text-anchor="middle" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace"
+          font-size="11" fill="#e6edf3">Linux</text>
+  </g>
+  <g transform="translate(253,290)">
+    <rect width="50" height="30" rx="15" fill="#131a24" stroke="#1e2836"/>
+    <circle cx="15" cy="15" r="2.5" fill="#22d3ee"/>
+    <text x="32.5" y="19" text-anchor="middle" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace"
+          font-size="11" fill="#e6edf3">AWS</text>
+  </g>
+  <g transform="translate(313,290)">
+    <rect width="64" height="30" rx="15" fill="#131a24" stroke="#1e2836"/>
+    <circle cx="15" cy="15" r="2.5" fill="#22d3ee"/>
+    <text x="39.5" y="19" text-anchor="middle" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace"
+          font-size="11" fill="#e6edf3">Azure</text>
+  </g>
+  <g transform="translate(387,290)">
+    <rect width="70" height="30" rx="15" fill="#131a24" stroke="#1e2836"/>
+    <circle cx="15" cy="15" r="2.5" fill="#22d3ee"/>
+    <text x="42.5" y="19" text-anchor="middle" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace"
+          font-size="11" fill="#e6edf3">Docker</text>
+  </g>
+  <g transform="translate(467,290)">
+    <rect width="64" height="30" rx="15" fill="#131a24" stroke="#1e2836"/>
+    <circle cx="15" cy="15" r="2.5" fill="#22d3ee"/>
+    <text x="39.5" y="19" text-anchor="middle" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace"
+          font-size="11" fill="#e6edf3">Flask</text>
+  </g>
+  <g transform="translate(541,290)">
+    <rect width="50" height="30" rx="15" fill="#131a24" stroke="#1e2836"/>
+    <circle cx="15" cy="15" r="2.5" fill="#22d3ee"/>
+    <text x="32.5" y="19" text-anchor="middle" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace"
+          font-size="11" fill="#e6edf3">Git</text>
+  </g></g>
+</svg>

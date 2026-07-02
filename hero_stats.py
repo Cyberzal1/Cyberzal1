@@ -201,17 +201,16 @@ def render(s):
     </linearGradient>
   </defs>
   <style>
-    .fill {{ transform: scaleX(0); transform-box: fill-box; transform-origin: left center;
-             animation: xpfill 1.6s cubic-bezier(.2,.8,.2,1) .3s forwards; }}
+    .fill {{ transform-box: fill-box; transform-origin: left center;
+             animation: xpfill 1.6s cubic-bezier(.2,.8,.2,1) .3s both; }}
     .dot  {{ animation: pulse 2s ease-in-out infinite; }}
     .scan {{ animation: sweep 9s linear infinite; }}
-    @keyframes xpfill {{ to {{ transform: scaleX(1); }} }}
+    @keyframes xpfill {{ from {{ transform: scaleX(0); }} }}
     @keyframes pulse  {{ 0%,100% {{ opacity:1 }} 50% {{ opacity:.25 }} }}
     @keyframes sweep  {{ from {{ transform: translateY(-10px) }}
                          to   {{ transform: translateY(340px) }} }}
     @media (prefers-reduced-motion: reduce) {{
-      .fill {{ animation: none; transform: scaleX(1); }}
-      .dot, .scan {{ animation: none; }}
+      .fill, .dot, .scan {{ animation: none; }}
     }}
   </style>
 

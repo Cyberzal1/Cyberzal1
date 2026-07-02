@@ -1,0 +1,58 @@
+<svg width="840" height="220" viewBox="0 0 840 220"
+     xmlns="http://www.w3.org/2000/svg" role="img"
+     aria-label="CYBERZAL — Cyber Security Ops, AI Security Engineer">
+  <defs>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#bb2acf"/><stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.28" cy="0.55" r="0.55">
+      <stop offset="0" stop-color="#bb2acf" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#bb2acf" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <style>
+    .in1, .in2, .in3 { animation: rise .7s cubic-bezier(.2,.8,.2,1) both; }
+    .in2 { animation-delay: .25s; } .in3 { animation-delay: .5s; }
+    .cursor { animation: blink 1.1s steps(1) infinite; }
+    .dot { animation: pulse 2s ease-in-out infinite; }
+    .scan { animation: sweep 9s linear infinite; }
+    @keyframes rise  { from { opacity:0; transform: translateY(8px); } }
+    @keyframes blink { 0%,55% { opacity:1 } 56%,100% { opacity:0 } }
+    @keyframes pulse { 0%,100% { opacity:1 } 50% { opacity:.25 } }
+    @keyframes sweep { from { transform: translateY(-10px) } to { transform: translateY(240px) } }
+    @media (prefers-reduced-motion: reduce) {
+      .in1,.in2,.in3 { animation: none; }
+      .cursor,.dot,.scan { animation: none; }
+    }
+  </style>
+  <rect width="840" height="220" rx="12" fill="#0d1117" stroke="#1e2836"/>
+  <rect width="840" height="220" rx="12" fill="url(#glow)"/>
+  <g opacity="0.09" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace" fill="#22d3ee" font-size="16">
+    <text x="640" y="70">&lt;/&gt;</text>
+    <text x="770" y="150" font-size="13">+</text>
+    <text x="588" y="178" font-size="13">+</text>
+    <path d="M600 95 h48 v22 h34" stroke="#22d3ee" fill="none" stroke-width="1.5"/>
+    <circle cx="682" cy="117" r="3" fill="#22d3ee"/>
+    <path d="M735 60 v30 h40" stroke="#bb2acf" fill="none" stroke-width="1.5"/>
+    <circle cx="775" cy="90" r="3" fill="#bb2acf"/>
+  </g>
+
+  <text x="32" y="42" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace" font-size="12" letter-spacing="3"
+        fill="#7d8590"><tspan fill="#bb2acf">//</tspan> RISE OF THE CYBERSHIELD HERO</text>
+  <circle class="dot" cx="676" cy="38" r="4" fill="#22c55e"/>
+  <text x="688" y="42" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace" font-size="11" letter-spacing="2"
+        fill="#22d3ee">STATUS: ONLINE</text>
+  <line x1="32" y1="58" x2="808" y2="58" stroke="#1e2836"/>
+
+  <g class="in1">
+    <text x="32" y="122" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace" font-size="46" font-weight="800"
+          letter-spacing="2" fill="url(#name)">CYBERZAL</text>
+    <rect class="cursor" x="300" y="88" width="16" height="36" fill="#22d3ee"/>
+  </g>
+  <text class="in2" x="32" y="156" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace" font-size="13"
+        letter-spacing="3" fill="#22d3ee">CYBER SECURITY OPS &#183; AI SECURITY ENGINEER</text>
+  <text class="in3" x="32" y="186" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace" font-size="10"
+        letter-spacing="4" fill="#7d8590">GUARDIAN OF THE DIGITAL FRONTIER</text>
+
+  <rect class="scan" x="1" y="0" width="838" height="2" fill="#22d3ee" opacity="0.12"/>
+</svg>
