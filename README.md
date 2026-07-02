@@ -46,8 +46,7 @@ Previously served as Cybersecurity Intern @ RAiD (RSAF Agile innovation Digital)
 
 ## 📜 Hero’s Progress Log
 
-<img src="https://github-readme-stats.vercel.app/api?username=cyberzal1&show_icons=true&locale=en&range=this_year&custom_title=Hero%27s%20Current%20Year%20Progress&title_color=ffffff&icon_color=bb2acf&text_color=ffffff&bg_color=0d1117" alt="cyberzal1" />
-
+<img src="hero-progress.svg" alt="Hero's Progress Log — live GitHub stats" width="840">
 ---
 
 
