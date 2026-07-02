@@ -1,0 +1,33 @@
+name: Update Hero Progress Card
+
+on:
+  schedule:
+    - cron: "15 16 * * *"   # 16:15 UTC = 00:15 SGT, daily
+  workflow_dispatch:         # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  regenerate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate card (GraphQL mode — exact stats)
+        run: python hero_stats.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: cyberzal1
+
+      - name: Commit if changed
+        run: |
+          git config user.name "hero-stats-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add hero-progress.svg
+          git diff --cached --quiet || git commit -m "chore: refresh hero progress card [skip ci]"
+          git push
