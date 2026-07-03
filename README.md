@@ -33,7 +33,7 @@ Previously served as Cybersecurity Intern @ **RAiD** (RSAF Agile innovation Digi
 <details>
 <summary>📜 Plain-text loadout (for the recruiters' scrying orbs)</summary>
 
-- **AI Stack:** ChatGPT · Claude · Gemini · Skywork AI · Venice AI · Sakana AI
+- **AI Stack:** ChatGPT · Claude · Gemini · Hermes · Skywork · Venice  · Sakana
 - **Class Specializations:** Security Vibe Coder · AI Security Engineer · AI Web & App Builder
 - **Cybersecurity:** Security frameworks, threat modeling, cloud security principles
 - **Cloud & DevOps:** AWS, Azure, Flask, Git, CI/CD basics, Docker (learning)
