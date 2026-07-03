@@ -50,19 +50,25 @@
     <rect width="97" height="30" rx="15" fill="#131a24" stroke="#1e2836"/>
     <circle cx="15" cy="15" r="2.5" fill="#bb2acf"/>
     <text x="56.0" y="19" text-anchor="middle" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace"
-          font-size="11" fill="#e6edf3">Skywork AI</text>
+          font-size="11" fill="#e6edf3">Hermes</text>     
+  </g>
+  <g transform="translate(279,96)">
+    <rect width="97" height="30" rx="15" fill="#131a24" stroke="#1e2836"/>
+    <circle cx="15" cy="15" r="2.5" fill="#bb2acf"/>
+    <text x="56.0" y="19" text-anchor="middle" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace"
+          font-size="11" fill="#e6edf3">Skywork</text>
   </g>
   <g transform="translate(386,96)">
     <rect width="90" height="30" rx="15" fill="#131a24" stroke="#1e2836"/>
     <circle cx="15" cy="15" r="2.5" fill="#bb2acf"/>
     <text x="52.5" y="19" text-anchor="middle" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace"
-          font-size="11" fill="#e6edf3">Venice AI</text>
+          font-size="11" fill="#e6edf3">Venice</text>
   </g>
   <g transform="translate(486,96)">
     <rect width="90" height="30" rx="15" fill="#131a24" stroke="#1e2836"/>
     <circle cx="15" cy="15" r="2.5" fill="#bb2acf"/>
     <text x="52.5" y="19" text-anchor="middle" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace"
-          font-size="11" fill="#e6edf3">Sakana AI</text>
+          font-size="11" fill="#e6edf3">Sakana</text>
   </g></g>
   <g class="in2">
   <text x="32" y="160" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace" font-size="10" letter-spacing="3"
