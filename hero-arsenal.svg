@@ -47,27 +47,27 @@
           font-size="11" fill="#e6edf3">Gemini</text>
   </g>
   <g transform="translate(279,96)">
-    <rect width="97" height="30" rx="15" fill="#131a24" stroke="#1e2836"/>
+    <rect width="70" height="30" rx="15" fill="#131a24" stroke="#1e2836"/>
     <circle cx="15" cy="15" r="2.5" fill="#bb2acf"/>
-    <text x="56.0" y="19" text-anchor="middle" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace"
-          font-size="11" fill="#e6edf3">Hermes</text>     
+    <text x="42.5" y="19" text-anchor="middle" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace"
+          font-size="11" fill="#e6edf3">Hermes</text>
   </g>
-  <g transform="translate(279,96)">
-    <rect width="97" height="30" rx="15" fill="#131a24" stroke="#1e2836"/>
+  <g transform="translate(359,96)">
+    <rect width="77" height="30" rx="15" fill="#131a24" stroke="#1e2836"/>
     <circle cx="15" cy="15" r="2.5" fill="#bb2acf"/>
-    <text x="56.0" y="19" text-anchor="middle" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace"
+    <text x="46.0" y="19" text-anchor="middle" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace"
           font-size="11" fill="#e6edf3">Skywork</text>
   </g>
-  <g transform="translate(386,96)">
-    <rect width="90" height="30" rx="15" fill="#131a24" stroke="#1e2836"/>
+  <g transform="translate(446,96)">
+    <rect width="70" height="30" rx="15" fill="#131a24" stroke="#1e2836"/>
     <circle cx="15" cy="15" r="2.5" fill="#bb2acf"/>
-    <text x="52.5" y="19" text-anchor="middle" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace"
+    <text x="42.5" y="19" text-anchor="middle" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace"
           font-size="11" fill="#e6edf3">Venice</text>
   </g>
-  <g transform="translate(486,96)">
-    <rect width="90" height="30" rx="15" fill="#131a24" stroke="#1e2836"/>
+  <g transform="translate(526,96)">
+    <rect width="70" height="30" rx="15" fill="#131a24" stroke="#1e2836"/>
     <circle cx="15" cy="15" r="2.5" fill="#bb2acf"/>
-    <text x="52.5" y="19" text-anchor="middle" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace"
+    <text x="42.5" y="19" text-anchor="middle" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace"
           font-size="11" fill="#e6edf3">Sakana</text>
   </g></g>
   <g class="in2">
