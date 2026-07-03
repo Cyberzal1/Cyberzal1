@@ -43,23 +43,23 @@
   <text x="32" y="180" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace" font-size="13" font-weight="700"
         fill="#bb2acf">LV</text>
   <text x="56" y="180" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace" font-size="36" font-weight="800"
-        fill="#bb2acf">7</text>
+        fill="#bb2acf">8</text>
   <text x="368" y="178" text-anchor="end" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace" font-size="11"
-        fill="#7d8590">63 / 64 XP</text>
+        fill="#7d8590">76 / 81 XP</text>
   <rect x="32" y="190" width="336" height="10" rx="5" fill="#131a24"
         stroke="#1e2836"/>
-  <rect class="fill" x="32" y="190" width="313.6" height="10" rx="5"
+  <rect class="fill" x="32" y="190" width="237.2" height="10" rx="5"
         fill="url(#xp)"/>
   <text x="32" y="216" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace" font-size="10" letter-spacing="1"
-        fill="#7d8590">1 XP TO LEVEL 8</text>
+        fill="#7d8590">5 XP TO LEVEL 9</text>
   <text x="32" y="240" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace" font-size="10" letter-spacing="1"
-        fill="#7d8590">ACTIVE 13 DAYS · JUN '25 – JUL '26</text>
+        fill="#7d8590">ACTIVE 14 DAYS · JUN '25 – JUL '26</text>
 
   <!-- stat grid -->
   <g transform="translate(420,84)">
     <rect width="124" height="84" rx="8" fill="#131a24" stroke="#1e2836"/>
     <text x="62" y="38" text-anchor="middle" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace"
-          font-size="26" font-weight="700" fill="#e6edf3">63</text>
+          font-size="26" font-weight="700" fill="#e6edf3">76</text>
     <text x="62" y="56" text-anchor="middle" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace"
           font-size="10" letter-spacing="2" fill="#22d3ee">YEAR XP</text>
     <text x="62" y="71" text-anchor="middle" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace"
@@ -68,7 +68,7 @@
   <g transform="translate(552,84)">
     <rect width="124" height="84" rx="8" fill="#131a24" stroke="#1e2836"/>
     <text x="62" y="38" text-anchor="middle" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace"
-          font-size="26" font-weight="700" fill="#e6edf3">16</text>
+          font-size="26" font-weight="700" fill="#e6edf3">29</text>
     <text x="62" y="56" text-anchor="middle" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace"
           font-size="10" letter-spacing="2" fill="#22d3ee">2026 XP</text>
     <text x="62" y="71" text-anchor="middle" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace"
@@ -119,7 +119,7 @@
   <text x="46" y="313" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace" font-size="10.5" font-style="italic"
         fill="#7d8590">I'll stand guard over the digital frontier.&#8221;</text>
   <text x="808" y="313" text-anchor="end" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace" font-size="9"
-        letter-spacing="1" fill="#7d8590">SYNCED 02 JUL 2026</text>
+        letter-spacing="1" fill="#7d8590">SYNCED 03 JUL 2026</text>
 
   <!-- signature scanline -->
   <rect class="scan" x="1" y="0" width="838" height="2" fill="#22d3ee"
