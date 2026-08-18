@@ -18,7 +18,7 @@ Previously served as Cybersecurity Intern @ **RAiD** (RSAF Agile innovation Digi
 ## ⚔️ About Me
 
 - 🎓 **MBA in Cybersecurity** — *graduated* ✅
-- 📚 Currently pursuing **Specialist Diploma in Cybersecurity Management**
+- 📚 **Specialist Diploma in Cybersecurity Management** — *graduated* ✅
 - 🌐 Mid-career adventurer shifting into **Cyber Defense & Pentesting**
 - 💻 Background: IT engineering, cloud foundations, and a touch of DevOps magic
 - 🎵 Ex-underground singer-songwriter, now coding verses in **Python, Linux, and Cybersecurity frameworks**
