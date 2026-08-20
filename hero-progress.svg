@@ -119,7 +119,7 @@
   <text x="46" y="313" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace" font-size="10.5" font-style="italic"
         fill="#7d8590">I'll stand guard over the digital frontier.&#8221;</text>
   <text x="808" y="313" text-anchor="end" font-family="ui-monospace,'Cascadia Mono','Segoe UI Mono',Menlo,Consolas,monospace" font-size="9"
-        letter-spacing="1" fill="#7d8590">SYNCED 19 AUG 2026</text>
+        letter-spacing="1" fill="#7d8590">SYNCED 20 AUG 2026</text>
 
   <!-- signature scanline -->
   <rect class="scan" x="1" y="0" width="838" height="2" fill="#22d3ee"
